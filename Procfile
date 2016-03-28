@@ -1,0 +1,1 @@
+web: service opencpu restart && tail -F /var/log/opencpu/apache_access.log
